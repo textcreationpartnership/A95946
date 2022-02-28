@@ -1,0 +1,287 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vindication of the antapologist, against the defence of the Dean of St. Paul's Apology.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95946</idno>
+            <idno type="STC">Wing V494A</idno>
+            <idno type="STC">ESTC R202771</idno>
+            <idno type="EEBO-CITATION">43078197</idno>
+            <idno type="OCLC">ocm 43078197</idno>
+            <idno type="VID">151848</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95946)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151848)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2279:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vindication of the antapologist, against the defence of the Dean of St. Paul's Apology.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Bentley in Russel-Street in Covent-Garden,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Exeter College Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sherlock, William, 1641?-1707. --  Apology for writing against Socinians.</term>
+               <term>Trinity.</term>
+               <term>Incarnation.</term>
+               <term>Socinianism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151848:1" rendition="simple:additions"/>
+            <p>A VINDICATION OF THE Antapologiſt, AGAINST THE DEFENCE OF THE Dean of St. <hi>Paul</hi>'s APOLOGY.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Bentley</hi> in <hi>Ruſſel-Street</hi> in <hi>Covent-Garden,</hi> 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:151848:2"/>
+            <pb n="1" facs="tcp:151848:2"/>
+            <head>A VINDICATION OF THE <hi>Antapologiſt,</hi> AGAINST THE Defence of the Dean of St. <hi>Paul</hi>'s APOLOGY.</head>
+            <p>'TIS not my deſign to take the Defender's whole Book in pieces, and anſwer every Clauſe of it; there is no occaſion for that, a great deal of it ſignifies nothing, and is not worth any Man's notice. But I would know with what ingenuity, conſcience, or forehead a Man can vent ſuch baſe re<g ref="char:EOLhyphen"/>proaches, contemptuous fleering ſcoffs and miſrepreſen<g ref="char:EOLhyphen"/>tations againſt a Perſon of ſo much worth? Does he think to come off by aſſerting [He cannot expoſe a Man without mentioning his Name] when 'tis generally known who is intended?
+<note place="margin">
+                  <hi>Def. p.</hi> 14</note>
+            </p>
+            <p>Firſt, for the <hi>Ant.</hi> being a <hi>Socinian,</hi> which is the De<g ref="char:EOLhyphen"/>fender's continued Charge through the whole, he ſays,
+<note place="margin">
+                  <hi>Def. p.</hi> 4.</note> [He does not pretend to know his inward intention, all he has to do with, is his Book.] And yet there is not one
+<pb n="2" facs="tcp:151848:3"/>Clauſe in it that proves this, nay there are ſeveral paſſa<g ref="char:EOLhyphen"/>ges to the contrary, as <hi>Ant. p.</hi> 45. <q>I from my heart re<g ref="char:EOLhyphen"/>ceive every tittle of the Revealed Chriſtian Religion; particularly as to thoſe two <hi>Magnalia,</hi> the <hi>Trinity</hi> and <hi>Incarnation,</hi> and again, <hi>Ant. p.</hi> 5. to make the ſum of my Sentiments plainer, the holy Scripture ſtates the <hi>Trinity</hi> under the notion of three bearing witneſs in Heaven, and adds, he has much more to ſay for that exagitated Text, than to allow it wanting in any Co<g ref="char:EOLhyphen"/>pies, on any other reaſon but their imperfection.</q>
+            </p>
+            <p>What could be ſaid more? Now this the <hi>Def.</hi> would not ſee.
+<note place="margin">
+                  <hi>Def. p.</hi> 8.</note> [This third Section he does not know well what to make of] but ſays [in the firſt place he (the <hi>Ant.</hi>) would have none but Scripture-terms made uſe of in ſta<g ref="char:EOLhyphen"/>ting this Doctrine; but this, whether it were the Inven<g ref="char:EOLhyphen"/>tion of old Hereticks, or new ones, hath been ſhewn to be in our caſe fooliſh and unreaſonable] I wiſh he had told us where he has ſhewn this, I cannot find it: The <hi>Ant. p.</hi> 21, 22. <q>quotes St. <hi>Athanaſius,</hi> and St. <hi>Ambroſe,</hi> as complaining of unſcriptural words:</q> But the <hi>Def.</hi> [is not at leiſure to turn them over.
+<note place="margin">
+                  <hi>Def. p.</hi> 22.</note>]</p>
+            <p>A Man at this rate will never be confuted, if at one time he will not ſee things, and at another will not exa<g ref="char:EOLhyphen"/>mine them, and when they pinch him will not know what to make of them. Methinks he can tend to paſs a ſtrange Complement on Scripture, God left it as a Rule of Faith to the end of the World. And why ſhould not the terms there ſerve our Times? What ſignifies it to ſay, [Hereticks may ſtill take them in their own ſenſe.
+<note place="margin">
+                  <hi>Def. p.</hi> 23.</note>] So they may your Unſcriptural words: No doubt but thoſe Hereticks, who can pervert all Scripture-terms, may alſo thoſe others which we do contrive. But what made him overlook what is really in the beginning of the third Section, and bring in ſomething at a diſtance? He had no mind to ſee the <hi>Ant.</hi> appear no <hi>Socinian,</hi> he was reſol<g ref="char:EOLhyphen"/>ved
+<pb n="3" facs="tcp:151848:3"/>to call him ſo. He forgot the <hi>Jus Belli</hi> in Contro<g ref="char:EOLhyphen"/>verſies, the obligation to Truth, Juſtice, and common Ingenuity there.</p>
+            <p>But farther, the <hi>Ant.</hi> being asked <hi>p.</hi> 44, 45. <q>Whe<g ref="char:EOLhyphen"/>ther he does believe the Doctrine of the <hi>Trinity</hi> to be defenſible or no? he anſwers, I do, as delivered in Scripture, but not upon his (<hi>viz.</hi> Dr. <hi>Sh.</hi>) Novel De<g ref="char:EOLhyphen"/>finitions and Hypotheſes.</q>
+            </p>
+            <p>So, <hi>p.</hi> 46. <q>the Doctrine of the <hi>Trinity</hi> is a Fundamental, if duly ſtated, and this he with Reverence acknow<g ref="char:EOLhyphen"/>ledges and believes, as Scripture ſtates it.</q>
+            </p>
+            <p>And, <hi>p.</hi> 48. <q>ſays, the denial of the <hi>Trinity</hi> duly ſtated is Hereſie.</q> And <hi>Socinianiſm</hi> he calls Hereſie, <hi>p.</hi> 50.</p>
+            <p>Now with what face can a Man pretend to anſwer this Book, overlook all this, and brand the Author ſtill for a <hi>Socinian,</hi>
+               <note place="margin">
+                  <hi>Def. p.</hi> 11.</note> and yet profeſs that he [has nothing elſe to judge him by but the Book?] I am loath to ſay what he deſerves.</p>
+            <p>The caſe was this, the very learned and peaceable <hi>Ant.</hi> met with a dangerous Explication of the <hi>Trinity</hi> by Dr. <hi>Sh.</hi> and ſeeing the ill Conſequences likely to attend the Church in wrangling about theſe matters at this time a day, <q>he deſired both parties would let this Conver<g ref="char:EOLhyphen"/>ſie alone, till fit time and place. <hi>p.</hi> 3. And that it might reſt (for this Juncture) as 'twas above thirteen hundred years ago determined by two General Coun<g ref="char:EOLhyphen"/>cils.</q>
+            </p>
+            <p>
+               <hi>P.</hi> 33.
+<note place="margin">
+                  <hi>Def. p.</hi> 2.</note> He did not deſire us [tamely and ſilently to give up a Fundamental Article of Chriſtian Faith. Neither diſſwade from Writing only in defence of the Doctrine of the <hi>Trinity.</hi> Nor does he beſeech one to be ſilent,
+<note place="margin">
+                  <hi>Def. p.</hi> 3.</note> and let the others Write, Talk, Rail, Argue, <hi>&amp;c.</hi>
+               <note place="margin">
+                  <hi>Def. p.</hi> 5.</note> he would not for Peace give up Truth, nor would betray Chriſti<g ref="char:EOLhyphen"/>an Faith under the pretence of Peace and Modera<g ref="char:EOLhyphen"/>tion.
+<note place="margin">
+                  <hi>Def. p.</hi> 7.</note>]</p>
+            <pb n="4" facs="tcp:151848:4"/>
+            <p>This truly may be matter of Melancholy conſiderati<g ref="char:EOLhyphen"/>on to all good Men, notwithſtanding his Scoffs, that a Man ſhould give himſelf ſo ſtrange a liberty of think<g ref="char:EOLhyphen"/>ing and ſpeaking. Theſe are falſe imputations, and malicious inſinuations ſtill charged, even contrary to our Author's accounts; as we find <hi>Ant. p.</hi> 9. <q>If the old way of ſpeaking had been kept to, the ſuit for peace had been let alone.</q>
+            </p>
+            <p>And what can be more diſingenuous? I do wonder, even to aſtoniſhment, that our Defender ſhould pre<g ref="char:EOLhyphen"/>tend to Write Controverſie, and be no more true in his Charges; or juſt in his Conſequences.</p>
+            <p>The buſineſs is, the Doctrine of the <hi>Trinity,</hi> as Dr. <hi>Sh.</hi> has ſtated it, is not a Fundamental of the Chriſtian Faith; his mutual conſciouſneſs will not guard him from the inference of three Gods, ſince the Unity of Accord (not of Nature and Subſtance) is all that will follow from thence; and this, a true enquiry into the importance of the words without any farther trouble will make ap<g ref="char:EOLhyphen"/>pear.</p>
+            <p>But he may not like this, becauſe the Doctor would have the word Subſtance thrown away, as the cauſe of all the Errors Men are apt to fall into about the Myſte<g ref="char:EOLhyphen"/>ry of the <hi>Trinity:</hi> And yet 'tis in our Articles, <hi>Athanaſian</hi> and <hi>Nicene</hi> Creeds, and in the Doxology at the Com<g ref="char:EOLhyphen"/>munion on <hi>Trinity-Sunday.</hi> And pray who abuſes the Church now? If the <hi>Ant.</hi> had ſaid as much as the Apology does in this, he muſt have been banged a<g ref="char:EOLhyphen"/>bout as an enemy to the Church, that he went to ex<g ref="char:EOLhyphen"/>poſe the Creeds, the Communion Service, and the Church of <hi>England.</hi> And truly he had reaſon enough, according to his notion, to be afraid of the word Sub<g ref="char:EOLhyphen"/>ſtance; a little Logick will teach him, that three diſtinct Infinite Spirits are three diſtinct Infinite Subſtances, and he may tremble at what neceſſary conſequence will quick<g ref="char:EOLhyphen"/>ly
+<pb n="5" facs="tcp:151848:4"/>be found out. His Notion is but poorly, I may ſay not at all juſtified by a later pretended Defence; though he ſpits <hi>Socinian</hi> Seconds in the Animadverter's face. <hi>Pag.</hi> 32. there is a great deal of obſcure ſtuff to no pur<g ref="char:EOLhyphen"/>poſe.</p>
+            <p>But the Defender advocates for the Dean, that though he [gives ſuch an Explication of the <hi>Trinity,</hi>
+               <note place="margin">
+                  <hi>Def. p.</hi> 6.</note> as he be<g ref="char:EOLhyphen"/>lieves to be true, he does not lay down his Hypotheſis as neceſſary to be expreſly believed by all] but the vain boaſting in the Apology, <hi>p.</hi> 85. will anſwer this, <hi>viz.</hi> that he has given ſuch a notion of the <hi>Trinity</hi> as is a<g ref="char:EOLhyphen"/>greeable to the phraſe and expreſſion of Scripture, ſuch as ſolves all the difficulties of it.</p>
+            <p>Let the Reader judge,
+<note place="margin">
+                  <hi>Def. p.</hi> 12.</note> Whether the Reaſons of the <hi>Ant.</hi> which the Defender mentions, hold good, though he will not allow them. They are theſe: If the <hi>Socini<g ref="char:EOLhyphen"/>ans</hi> be not the only perſons Heterodox in the Points of the <hi>Trinity,</hi> and if theſe are not the only Points in which they are Heterodox, then it follows not, ſays <hi>Ant.</hi> that he that deſired the Controverſie of the <hi>Trinity</hi> to be for<g ref="char:EOLhyphen"/>born at preſent, did deſire that no body would write a<g ref="char:EOLhyphen"/>gainſt the <hi>Socinians,</hi> though his ſuit was chiefly to the <hi>Dean</hi> and Dr. <hi>Wallis.</hi>
+            </p>
+            <p>I cannot imagin why he takes pains to prove that [every Chriſtian or Divine muſt] write,
+<note place="margin">
+                  <hi>Def. p.</hi> 13.</note> (for that is ac<g ref="char:EOLhyphen"/>cording to the Diſcourſe there) [when the Catholick Faith is aſſaulted, or elſe he muſt be deemed a Neuter, or not Orthodox,] then there muſt be a thouſand Scrib<g ref="char:EOLhyphen"/>lers againſt one Heretical Pamphlet. What if there be no need of my Defence? I may ſtand by very innocently, and comfort my ſelf in ſeeing the Hereticks beaten by others, when there is no occaſion for me to help.</p>
+            <p>The <hi>Ant.</hi> Explication of that Text, <hi>p.</hi> 23.
+<note place="margin">
+                  <hi>Def. p.</hi> 23.</note> does not [overthrow the Perſonality of the Holy Ghoſt] becauſe, if
+<pb n="6" facs="tcp:151848:5"/>this did not, there are other Texts to prove it; and no<g ref="char:EOLhyphen"/>thing is ſaid to be in this againſt it. He does not ſay, his is the Senſe of the Text; but puts this to prove, that different Interpretations may be put on one Text, and a general Senſe may be ſometimes well enough; and ſtill he allows this <q>Text may not, without Probability, be interpreted of the Eſſential Spirit of God.</q> So that 'twas fooliſhly and wickedly ſpiteful to ſay,
+<note place="margin">
+                  <hi>Def. p.</hi> 23.</note> as <hi>Def.</hi> does, that [this Example is not very much for his (the <hi>Ant.</hi>) Reputation, becauſe it can ſerve no other End, but to overthrow the Perſona<g ref="char:EOLhyphen"/>lity of the Holy Ghoſt.] Why muſt every thing ne<g ref="char:EOLhyphen"/>ceſſarily be a Man's Deſign, which may be ſo, when as well it may not be ſo? But why more particularly muſt this be his End here, when 'tis brought to another Pur<g ref="char:EOLhyphen"/>poſe, and another Deſign is mentioned; and nothing of that which our Adverſary's malevolent Inclination makes him fancy? And yet this Man does very ſo<g ref="char:EOLhyphen"/>lemnly tell us at firſt,
+<note place="margin">
+                  <hi>Def. p.</hi> 4.</note> [He does not pretend to know his inward Intentions; and therefore, whatever he ſhall ſay in his Reflections, let him not pretend that he does it to calumniate him, ſince all he has to do with is his Book;] what ſhall we think when there is plainly <hi>Pro<g ref="char:EOLhyphen"/>teſtatio contra factum?</hi>
+            </p>
+            <p>He goes on with his Falſe Charge,
+<note place="margin">
+                  <hi>Def. p</hi> 42.</note> [That he (the <hi>Ant.</hi>) does plainly enough inſinuate, that it was not Reaſon or Scripture, but Humane Force, which carried it, and determined the Point in the Council of <hi>Nice</hi>] when there's no ſuch thing in the whole Book; and yet (according to his uſual Cuſtom) talking at Rovers, I am ſure without the Book he pretends to Anſwer, he gives us another Caſt of his Civility, that ['twas writ<g ref="char:EOLhyphen"/>ten with a Deſign (which he is very good at under<g ref="char:EOLhyphen"/>ſtanding) [to expoſe the <hi>Nicene</hi> Faith and Council, the Doctrine of the <hi>Trinity,</hi> and the Church of <hi>England.</hi>]
+<pb n="7" facs="tcp:151848:5"/>And if we look back, we ſhall find him ſay, the <hi>Ant.</hi> [ſpeaks a great many fine things in behalf of the Coun<g ref="char:EOLhyphen"/>cil of <hi>Nice,</hi> not worth repeating.
+<note place="margin">
+                  <hi>Def. p.</hi> 40.</note> Let's ſee then what theſe things are. <q>I have, ſays the <hi>Ant.</hi> a true and profound Veneration for that Council, and eſteem it only Second to that of the Apoſtles in <hi>Act.</hi> 15. Who can think otherwiſe of it, that conſiders the number of the Fathers therein; or otherwiſe, that reflects on the Quality of many of them; the Number Three Hundred and Eighteen; their Quality, divers of them ſuch, who had even at that time bid fair for Martyr<g ref="char:EOLhyphen"/>dom; Confeſſors of the Firſt Rank, that bore in their Body <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the Marks of Chriſt; had ſome of them their Hands cut off, had been ſeared and tormented with Fire, and otherwiſe ſuffered for the Faith of Jeſus; ſome had the Apoſtolick Gifts of Mi<g ref="char:EOLhyphen"/>racles, and one Raiſed the Dead. <bibl>
+                     <hi>Ant. p.</hi> 36.</bibl>
+               </q> Were not theſe things worth repeating? A very remarkable thing, he means not fit for him to mention, becauſe then the <hi>Ant.</hi> proves himſelf no <hi>Socinian,</hi> and that does not ſerve the <hi>Def.</hi>'s turn.</p>
+            <p>But pray, What makes the <hi>Def.</hi> ſo averſe to the <hi>Ant.</hi>'s Propoſal,
+<note place="margin">
+                  <hi>Def. p.</hi> 39.</note> of calling in [a Concurring Power] to end the Controverſie? Is it for the ſame Reaſon, that ſome Cli<g ref="char:EOLhyphen"/>ents will not ſubmit to a Reference, becauſe they love wrangling and going to Law? Or is he afraid of a Convocation? This he would have [not reaſonable nor practicable:] Why ſo? The King can, and will (I hope) call one, if asked; when a growing Hereſie in<g ref="char:EOLhyphen"/>feſts the Church, they can come together, and they will act in ſuch a caſe; and he that thinks otherwiſe, abuſes the Conſtitution, or the Perſons in it. But the <hi>Def.</hi> tells you, [This is not a fair Propoſal;
+<note place="margin">
+                  <hi>Def. p.</hi> 39.</note> for the Hereticks muſt be firſt gratified, the Forms of Worſhip, and the Doctrine of the <hi>Trinity</hi> thrown out of the Liturgy] when the <hi>Ant.</hi> ſays no ſuch thing. He makes what he
+<pb n="8" facs="tcp:151848:6"/>pleaſes, and fathers it on this honeſt abſent Perſon: When he cannot tell what to Anſwer, he then mentions ſomething odious, and runs a great way after his own Shadow with open Mouth: And this he does not only here, but in many other places of his Defence. Let the Reader compare the Books.</p>
+            <p>As we may ſee again, he cites the <hi>Ant. p.</hi> 52. ſaying, [That no Practice be impoſed upon any contrary to their Conſciences.
+<note place="margin">
+                  <hi>Def. p.</hi> 57</note> The Meaning of which he takes to be, That no Expreſſions ſhould be allowed in the Liturgy, which any one profeſſes are againſt his Con<g ref="char:EOLhyphen"/>ſcience; nor any Rite or Ceremony required, which all are not ſatisfied in; and ſo we muſt part with Epi<g ref="char:EOLhyphen"/>ſcopacy, and all Order and Decency, <hi>&amp;c.</hi>] He calls him, [Brave Proteſtant Reconciler. And ſays, 'Tis admirable Arguing for a Church of <hi>England</hi>-Man, who has read Fathers and School-men.] Pray let's ſee how the <hi>Defender</hi> has here uſed him; take all his Words: <q>In ſuch Myſterious Points which we cannot underſtand, or clear our ſelves in, we ſhall be permitted to ſu<g ref="char:EOLhyphen"/>ſpend our Judgment, and not be required to declare any further Aſſent and Conſent to the Churches De<g ref="char:EOLhyphen"/>terminations, than that we will not contradict or teach contrary thereto; withal, that in the mean time no Practice be impoſed upon any, contrary to their Conſcience. But I would have it noted here, that I neither in my Paper did, nor do I now expoſe this Temper, as a Mean to qualifie Men for Church-Preferments, but only for Communion.</q> 
+               <hi>Ant.</hi> p. 51, 52. God deliver us from the Tongues and Pens of falſe and wicked Miſrepreſenters. 'Tis not diſingenuous to know the true Meaning, and lay open the juſt Conſe<g ref="char:EOLhyphen"/>quences of any Saying; but 'tis abuſive to put a falſe Conſtruction on Words, to mutilate a Sentence to make it look worſe than it is. I agree with the <hi>Defender,</hi>
+               <pb n="9" facs="tcp:151848:6"/>that [there are Men of perverſe Minds and weak Heads:] I am ſure ſome are blinded with Spite,
+<note place="margin">
+                  <hi>Def. p.</hi> 36.</note> and in<g ref="char:EOLhyphen"/>fatuated by Prejudice.</p>
+            <p>As to our Authors Latitude of Faith and negative Be<g ref="char:EOLhyphen"/>lief, and as to the Title of <hi>Melancholy Stander-by,</hi> which the <hi>Defender</hi> makes himſelf with Dulneſs enough ſo of<g ref="char:EOLhyphen"/>ten merry with, let him but take the Account given in the Antapology with a Candid Mind, and a Chri<g ref="char:EOLhyphen"/>ſtian Temper, and I believe they will ſhift well enough for themſelves; however, he may find reaſon to be a little more ſerious in his Behaviour about ſuch mat<g ref="char:EOLhyphen"/>ters.</p>
+            <p>We meet with a mighty Buſtle made about <hi>p.</hi> 31.
+<note place="margin">
+                  <hi>Def. p.</hi> 30, 31, 32, 33, <hi>&amp;c.</hi>
+               </note> of <hi>Ant.</hi> a great deal is ſpent upon the Words of it: And yet, upon a moſt ſtrict and impartial Examination, I profeſs, I do not find any Occaſion given for this Heap of ill Sayings; they are not expreſly, nor by Conſe<g ref="char:EOLhyphen"/>quence, to be found there.</p>
+            <p>They are theſe:</p>
+            <p>[That the Fundamental Articles of Chriſtian Faith are revealed in ſuch ambiguous Terms,
+<note place="margin">
+                  <hi>Def. p.</hi> 31.</note> that we cannot underſtand the true Senſe of them; or at leaſt few can.</p>
+            <p>That God meant no Senfe,
+<milestone type="tcpmilestone" unit="unspecified" n="31"/> but intended that every Man ſhould believe them in what Senſe he pleaſed.</p>
+            <p>That he charges all the Hereſies and Infidelity in the World on God Almighty, by his Latitude of Faith,
+<milestone type="tcpmilestone" unit="unspecified" n="31"/> by the different Degrees and Meaſures of Faith which God gives, <hi>&amp;c.</hi>
+            </p>
+            <p>That the Church muſt not require an open Profeſſion of the true Faith.
+<milestone type="tcpmilestone" unit="unspecified" n="31"/>
+            </p>
+            <p>That nothing will uphold his Cauſe,
+<note place="margin">
+                  <hi>Def. p.</hi> 32.</note> but ſuch an In<g ref="char:EOLhyphen"/>differency as will not allow the Church to concern her ſelf what Men believe, nor her Members to defend the true Faith.</p>
+            <pb n="10" facs="tcp:151848:7"/>
+            <p>Luſts and Prejudices hinder me from diſcerning the clear Evidence of the Truth,
+<note place="margin">
+                  <hi>Def. p.</hi> 32.</note> and ſo long I cannot be<g ref="char:EOLhyphen"/>lieve, and therefore I hope I ſhall be excuſed.]</p>
+            <p>Nor is there any Reaſon for theſe Queſtions to be put.</p>
+            <p>[Does the Church deſire no Man to believe the Creeds and Doctrine of the Trinity?
+<note place="margin">
+                  <hi>Def. p.</hi> 33.</note>
+            </p>
+            <p>Is it to no purpoſe to teach Men the Truth? Or to require them to profeſs their Minds ſincerely?]</p>
+            <p>And to theſe let me add, that [whether there be not ſome Chriſtian Truths,
+<note place="margin">
+                  <hi>Def. p.</hi> 27.</note> which ought to be expreſly be<g ref="char:EOLhyphen"/>lieved by all Chriſtians?]</p>
+            <p>My deſigned Brevity will not allow me to tranſcribe the whole; I refer the Reader to the Book; and I am very well ſatisfied, he will wonder at the Defender's bold Strokes. 'Tis eaſie to abuſe by Queſtions, or to make Sayings againſt another; but I challenge him to prove, that theſe things neceſſarily follow from any Words there.</p>
+            <p>When all is done, we do ſubſcribe in a large Senſe, that muſt be admited to ſave the Charity of our Church from denouncing Damnation againſt the <hi>Greek</hi> Church, for want of the Word <hi>Filiog.</hi> He is not the beſt Friend to the Eſtabliſhment, who takes the Sentence ſo ſtrictly, as to damn every body that believes not every Word in the <hi>Athanaſian</hi> Creed: It is certainly enough to be<g ref="char:EOLhyphen"/>lieve the Subſtance of our Chriſtian Faith, touching the <hi>Trinity</hi> and the <hi>Incarnation</hi> of the Son of God. I take that to be believing faithfully.</p>
+            <p>Dr. <hi>Falkner</hi> owns, That the <hi>Athanaſian</hi> Creed gives ſome Explications, which are not ſo neceſſary to be un<g ref="char:EOLhyphen"/>derſtood and believed. <hi>Lib. Ecc.</hi> p. 146.</p>
+            <p>And Dr. <hi>Stillingfleet</hi> (now Biſhop of <hi>Worceſter</hi>) in his Vindication of his Anſwer to the King's Papers, pleads in behalf of the Eaſtern Churches, <hi>p.</hi> 23. in theſe
+<pb n="11" facs="tcp:151848:7"/>Words: <hi>Is it not a very hard Caſe theſe ſhould be excluded the Catholick Church, and conſequently from Salvation, for not rightly underſtanding the Subtilties of the Diſtinction be<g ref="char:EOLhyphen"/>twixt Nature and Perſon?</hi> &amp;c.</p>
+            <p>And our Articles were never deſigned as Declarations of Truths, neceſſary to be believed only in one Senſe; but as Articles of Peace, which no Subſcriber ſhould Op<g ref="char:EOLhyphen"/>poſe or Preach againſt.</p>
+            <p>But I find our two Authors can by no means agree in their Politicks. <hi>Ant.</hi> is for Alterations, and an Union of Proteſtants (if it can be compaſſed) by reaſonable Me<g ref="char:EOLhyphen"/>thods: And, doubtleſs, he thinks his Way moſt likely <hi>(rebus ſic ſtantibus)</hi> to preſerve the Church.</p>
+            <p>The Defender has another ſort of Hopes and Belief.
+<note place="margin">
+                  <hi>Def. p.</hi> 63.</note> I confeſs ſincerely, I am not a fit Judge of ſuch matters; I ſhall therefore leave it to God's Providence, and the Wiſdom of my Superiours; praying heartily, that God will vouchſafe to continue our Liturgy in Uſe, Honour, and Veneration.</p>
+            <p>The <hi>Ant.</hi> is againſt Scholaſtick Terms in our Prayers: He names <hi>Forbeſius</hi>'s Exceptions; and he would have ſome one anſwer them more ſatisfactorily than he can contrive to do. Now our Defender had done well, if he had here inſerted an Anſwer to theſe; his Underta<g ref="char:EOLhyphen"/>king required it; but he did not think fit to meddle, but only tells you fleeringly,
+<note place="margin">
+                  <hi>Def. p.</hi> 21.</note> [He hopes there are ſome others in the Church, that can Anſwer ſo as he would have it Anſwered.] Can he do nothing but call Names, and infer bad Conſequences? But as long as the <hi>Ant.</hi> aſſerts in the midſt of all this, that the things excepted againſt may be uſed without Sin, <hi>p.</hi> 21. (we know what may be done without Sin, muſt be done when Authority commands) he does not give any Allowance to an Op<g ref="char:EOLhyphen"/>poſite Separation.</p>
+            <pb n="12" facs="tcp:151848:8"/>
+            <p>This all together would have been conſtrued well enough by a Man not given to Bitterneſs, Wrath and Diſputing. But however, make the worſt of it, 'twill not amount to the Defender's Charge, or near it, <hi>viz.</hi> [That this Writing is directly againſt the received Do<g ref="char:EOLhyphen"/>ctrine of the <hi>Trinity</hi> and Eſtabliſhed Worſhip,
+<note place="margin">
+                  <hi>Def. p.</hi> 21, 22.</note> that the <hi>Ant.</hi> is a perfect Adverſary to the Church.]</p>
+            <p>The <hi>Def.</hi>
+               <note place="margin">
+                  <hi>Def. p.</hi> 62.</note> charges the <hi>Ant.</hi> for [giving up the Convocation, but he will [not follow him here] he ſays [for good Reaſons;
+<note place="margin">
+                  <hi>Def. p.</hi> 18.</note>] I ſuppoſe the ſame as when he ſays, [He has more Wit than to follow him through his Reading and the School-men.] An ingenuous Ex<g ref="char:EOLhyphen"/>cuſe: I can aſſure you, he is not a Man to be followed by every Body; as he has come very near the Character given of the <hi>Nicene</hi> Fathers, excepting their miraculous Gifts, ſo (I can ſay it without Vanity or Flattery) his Reading and Learning is more than common and ordi<g ref="char:EOLhyphen"/>nary; though the <hi>Def.</hi> ſays many little things of him, which provoked me to this. One Reaſon he names the <hi>Ant.</hi>
+               <note place="margin">
+                  <hi>Def. p.</hi> 62.</note> [is on the ſecurer ſide.] Our Champion is like to make a brave Defender of our Faith, and our Church's Authority, who will not ſcratch his Hands, when his Adverſary has got the ſafer Side. He gives up the Con<g ref="char:EOLhyphen"/>vocation no more than 'twas long before, as his Hiſtory makes appear, which <hi>Def.</hi> would not touch.</p>
+            <p>'Tis certain, that Eccleſiaſtical Laws ſhould not be made without Eccleſiaſtical Perſons; this is according to the Primitive Canons, to the Proceedings of Chriſtian Emperours, and to the Methods of <hi>England:</hi> 'Twas one of thoſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ancient Cuſtoms that our Na<g ref="char:EOLhyphen"/>tion has obſerved.</p>
+            <p>Farther, Queen <hi>Elizabeth</hi> ſince the Reformation, did prohibit the Houſe of Commons medling in the ordering of Church-matters, as appears by Sir <hi>Simonds D'Ewes, p.</hi> 213.</p>
+            <pb n="13" facs="tcp:151848:8"/>
+            <p>The Speaker declared to the Houſe of Commons, that it was her Majeſty's Pleaſure, That from henceforth no Bills concerning Religion ſhall be preferred or received into this Houſe, unleſs the ſame ſhould be firſt conſider<g ref="char:EOLhyphen"/>ed and liked by the Clergy.</p>
+            <p>And we find the Perſons attempting it, were then ſome forbad the Houſe, others turned out of their Offi<g ref="char:EOLhyphen"/>ces, others ſent to the <hi>Tower;</hi> nay, there was a Submiſ<g ref="char:EOLhyphen"/>ſion made for tranſgreſſing in this, <hi>Anno</hi> 23. <hi>p.</hi> 284.</p>
+            <p>This is what (I gueſs) our <hi>Def.</hi> would be at, but he is reſolved not to burn his Fingers, and I am perſwaded the <hi>Ant.</hi> is ſatisfied in all this.</p>
+            <p>But whatever it was heretofore, we are to examine what the Cuſtom has been for a conſiderable time paſt; and here we ſhall find, if the King give the Parliament leave to meddle in Eccleſiaſtical Matters, and they do make a Law without a Lower Houſe of Convocation, this will be obligatory: Whether we like it, or not, ſo it is.</p>
+            <p>The next Charge againſt the <hi>Ant.</hi> is, that he ſays,
+<note place="margin">
+                  <hi>Def. p.</hi> 64.</note> [O<g ref="char:EOLhyphen"/>ther Diſſenters have benefit by the Act of Toleration, who do not renounce <hi>Socinianiſm,</hi> contrary to the expreſs words of the Act.] And here the <hi>Ant.</hi> very [ſenſe, ſinceri<g ref="char:EOLhyphen"/>ty, and modeſty] are queſtioned; he claps his wings, and crows as if he were inſulting over his conquer'd adverſa<g ref="char:EOLhyphen"/>ry: Nay, he puts him in a way to excuſe himſelf, that he [was impoſed upon by hear-ſay, or by a haſty concluſion, that becauſe it was an Act of Indulgence to Diſſenters, it muſt certainly indulge the innocent and true Proteſtant <hi>Socinians</hi> among the reſt.] Very kindly done! but not too faſt, look upon the Act, Pages in it are 309 and 317.</p>
+            <p>In the former 'tis provided that Perſons in Holy Or<g ref="char:EOLhyphen"/>ders, or pretending to Holy Orders, Preachers, or Tea<g ref="char:EOLhyphen"/>chers in Diſſenting Congregations, ſhall be free from the Penalties of the Act for reſtraining Nonconformiſts from
+<pb n="14" facs="tcp:151848:9"/>inhabiting in Corporations, and of the Act of Uniformi<g ref="char:EOLhyphen"/>ty; upon condition only of the taking the Oaths, and de<g ref="char:EOLhyphen"/>claring the approbation of, and ſubſcribing to the Articles of Religion mentioned in a Statute made, 13 <hi>Eliz.</hi> (<hi>viz.</hi> 39 Articles) except 34, 35, 36. and ſome words of the 20th.</p>
+            <p>In the other Clauſe 'tis Enacted, that the benefit of the Act ſhall not extend to any perſon that ſhall deny in his Preaching or Writing, the Doctrine of the Bleſſed Trinity, as it is declared in the aforeſaid Articles of Re<g ref="char:EOLhyphen"/>ligion. So that none but publick Preachers, <hi>&amp;c.</hi> are com<g ref="char:EOLhyphen"/>prehended in theſe Reſtrictions; all that are not ſo, may believe what they pleaſe concerning the <hi>Trinity,</hi> without being excluded from the benefit of this Act, and ſo in<g ref="char:EOLhyphen"/>deed may Preachers too; only they muſt not teach pub<g ref="char:EOLhyphen"/>lickly any thing contrary to thoſe Articles they are to Subſcribe and declare their approbation (not belief) of.</p>
+            <p>I ſhall conclude without returning his Scoffs, or his Laſhes (which word uſed more than once ought to be re<g ref="char:EOLhyphen"/>canted, as reflecting on a very Honourable Profeſſion) with an earneſt and a ſerious deſire, that he will repent of all his Virulent and Malicious Speeches and Miſrepreſenta<g ref="char:EOLhyphen"/>tions; that he will learn to be more true in his Charges, and juſt in his Conſequences.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
